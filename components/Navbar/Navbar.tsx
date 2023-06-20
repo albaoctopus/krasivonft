@@ -14,7 +14,7 @@ export function Navbar() {
     <div className={styles.navContainer}>
       <nav className={styles.nav}>
         <div className={styles.navSection}> {/* Center section */}
-          <Link href="/">
+          <Link href="http://atereta.online">
             <Image
               src="/l.webp"
               width={200}
