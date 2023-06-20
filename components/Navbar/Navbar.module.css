@@ -87,8 +87,16 @@
 }
 
 /* Sreens less than 720px */
+
+@media (max-width: 500px) {
+  .profileImage {
+    display: none !important;
+  }
+}
+
 @media (max-width: 370px) {
   .navConnect {
     display: none !important;
   }
+  
 }
