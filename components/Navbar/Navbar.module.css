@@ -87,7 +87,7 @@
 }
 
 /* Sreens less than 720px */
-@media (max-width: 720px) {
+@media (max-width: 370px) {
   .navConnect {
     display: none !important;
   }
